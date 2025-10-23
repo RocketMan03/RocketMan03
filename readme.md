@@ -13,16 +13,12 @@
       <img width="225" height="225" alt="Portfolio Image" src="https://github.com/RocketMan03/RocketMan03/blob/main/invest/%EC%95%84%EC%9D%B4%EB%A0%8C.jpg" />
   
   <br><br>
-
-  <a href="mailto:chlghwo07229@gmai.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-
   <br><br>
 
   <h2 align="center">📧 Email </h2>
   <p align="center">
-    <strong>chlghwo07229@gmai.com</strong>
+
   </p>
 </div>
 <div align= "center">
